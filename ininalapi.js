@@ -1,7 +1,7 @@
 
 /*
  * Private Ininal API v1
- * Coded by Cool Guy
+ * Coded by Cool Guy#0101
 */
 
 const request = require('request-promise');
