@@ -1,7 +1,7 @@
 
 /*
- * Private Ininal Query Systen v1
- * Coded by Cool Guy
+ * Private Ininal Query System v1
+ * Coded by Cool Guy#0101
 */
 
 const EventEmitter = require('events');
